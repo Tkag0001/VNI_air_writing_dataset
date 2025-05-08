@@ -1,9 +1,13 @@
 # VNI_air_writing_dataset
 
 **Tác giả:** Trịnh Huỳnh Thịnh Khang
+
 **Tên bộ dữ liệu:** Vni_Air_writing
+
 **Giấy phép:** CC BY-NC-SA 4.0
+
 **Kích thước:** 22760 mẫu
+
 **Mô tả:** Bộ dữ liệu này là về quỹ đạo chữ viết tay trên không đối với tiếng Việt do chính mình tự thực hiện trong thời gian nghiên cứu từ 4/2024 đến 3/2025. Cách viết sẽ là chữ cái trước và dấu câu sau. 
 
 Bạn có thể tải dữ liệu thông qua đoạn code sau:
