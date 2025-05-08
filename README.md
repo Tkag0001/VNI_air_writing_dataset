@@ -6,6 +6,16 @@
 **Kích thước:** 22760 mẫu
 **Mô tả:** Bộ dữ liệu này là về quỹ đạo chữ viết tay trên không đối với tiếng Việt do chính mình tự thực hiện trong thời gian nghiên cứu từ 4/2024 đến 3/2025. Cách viết sẽ là chữ cái trước và dấu câu sau. 
 
+Bạn có thể tải dữ liệu thông qua đoạn code sau:
+```python
+import kagglehub
+
+# Download latest version
+path = kagglehub.dataset_download("trnhhunhthnhkhang/vi-air-writing")
+
+print("Path to dataset files:", path)
+```
+
 ![vni_airwriting](https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F15128226%2Fa520158454545012284f06870e67dc81%2Fvni_air.png?generation=1740877182344930&alt=media)
 
 Bộ dữ liệu thô tức file zip VNI_airwriting.zip bao gồm 4 thư mục chính:
